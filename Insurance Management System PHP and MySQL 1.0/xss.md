@@ -1,10 +1,10 @@
 # Exploit Title: Insurance Management System PHP and MySQL 1.0 - Multiple Stored XSS
 # Date: 2024-02-08
-# Vendor Homepage: https://www.sourcecodester.com
+# Vendor Homepage: https://www.sourcecodester.com 
 # Software Link: https://www.sourcecodester.com/php/16995/insurance-management-system-php-mysql.html
 # Version: 1.0
 # Tested on: Windows / PHP 8.1 & XAMPP 3.3.0
-
+# CVE : CVE-2024-25854
 ## Support Ticket
 
 Click on Support Tickets > Generate and add payload  < img src=x onerror=prompt("xss")> to Subject and Description fields, then send the request. When admin visits the Support Tickets page, XSS will be triggered.
